@@ -415,11 +415,11 @@
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
+      "Name": "Seiten-Besitzer"
     },
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All"
+      "Name": "Alle"
     }
   ],
   "Sources": [
@@ -432,15 +432,15 @@
   "Levels": [
     {
       "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-      "Name": "Beginner"
+      "Name": "Einsteiger"
     },
     {
       "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
-      "Name": "Intermediate"
+      "Name": "Erfahrene Benutzer"
     },
     {
       "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
-      "Name": "Advanced"
+      "Name": "Profis"
     }
   ],
   "StatusTag": [
