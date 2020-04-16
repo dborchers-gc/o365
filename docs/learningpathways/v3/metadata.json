@@ -135,7 +135,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "Erste Schritte",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -143,7 +143,7 @@
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
+          "Name": "Erster Start",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": null,
@@ -152,7 +152,7 @@
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
+          "Name": "Empfehlungen",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": null,
@@ -163,7 +163,7 @@
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Scenarios",
+      "Name": "Szenarien",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -171,7 +171,7 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Modern workplace",
+          "Name": "Der Moderne Arbeitsplatz",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": null,
@@ -180,7 +180,7 @@
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
+          "Name": "Arbeiten von Überall",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": null,
@@ -191,7 +191,7 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Produkte",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
