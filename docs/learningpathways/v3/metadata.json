@@ -135,7 +135,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "Erste Schritte",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -163,7 +163,7 @@
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Scenarios",
+      "Name": "Szenarien",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -191,7 +191,7 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Produkte",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
