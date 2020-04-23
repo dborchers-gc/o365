@@ -507,7 +507,7 @@
   },
   {
     "Id": "422bf3aa-9ae8-46f1-83a2-e65720e1a34d",
-    "Title": "What is Microsoft Teams?",
+    "Title": "Was ist Microsoft Teams?",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/4422bf3aa-9ae8-46f1-83a2-e65720e1a34d?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -518,7 +518,7 @@
   },
   {
     "Id": "6723dc43-dbc0-46e6-af49-8a2d1c5cb937",
-    "Title": "Sign in and get started",
+    "Title": "Anmelden und loslegen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/6723dc43-dbc0-46e6-af49-8a2d1c5cb937?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -529,7 +529,7 @@
   },
   {
     "Id": "d7978db0-33b5-4ad3-93ac-ef0bd3c2a670",
-    "Title": "Chat and share files",
+    "Title": "mit Kollegen chatten und Inhalte teilen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/d7978db0-33b5-4ad3-93ac-ef0bd3c2a670?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -540,7 +540,7 @@
   },
   {
     "Id": "31e38b35-96ab-447a-acb2-97bb5c0716c0",
-    "Title": "Collaborate in Teams",
+    "Title": "Zusammenarbeit in Teams",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/31e38b35-96ab-447a-acb2-97bb5c0716c0?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -551,7 +551,7 @@
   },
   {
     "Id": "1ba8dce3-1122-47f4-8db6-00a4f93117e8",
-    "Title": "Set up your mobile apps",
+    "Title": "Einrichten der Teams-App auf den Mobilgeräten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/1ba8dce3-1122-47f4-8db6-00a4f93117e8?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -562,7 +562,7 @@
   },
   {
     "Id": "b98d533f-118e-4bae-bf44-3df2470c2b12",
-    "Title": "Welcome to Microsoft Teams",
+    "Title": "Willkommen in Microsoft Teams",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/b98d533f-118e-4bae-bf44-3df2470c2b12?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -573,7 +573,7 @@
   },
   {
     "Id": "702a2977-e662-4038-bef5-bdf8ee47b17b",
-    "Title": "Get your team up and running",
+    "Title": "Richten Sie ihr Team ein",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/702a2977-e662-4038-bef5-bdf8ee47b17b?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -584,7 +584,7 @@
   },
   {
     "Id": "92d238e6-0ae2-447e-af90-40b1052c4547",
-    "Title": "Go-to guide for team owners",
+    "Title": "Anleitung für Team-Verantwortliche",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/92d238e6-0ae2-447e-af90-40b1052c4547?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -595,7 +595,7 @@
   },
   {
     "Id": "c3d63c10-77d5-4204-a566-53ddcf723b46",
-    "Title": "Overview of teams and channels",
+    "Title": "Überblick über Teams und Kanäle",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/c3d63c10-77d5-4204-a566-53ddcf723b46?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -606,7 +606,7 @@
   },
   {
     "Id": "99d33aaa-0743-47c6-a476-eb0a24abcb7e",
-    "Title": "Work in channels",
+    "Title": "Arbeiten mit Kanälen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/99d33aaa-0743-47c6-a476-eb0a24abcb7e?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -617,7 +617,7 @@
   },
   {
     "Id": "a864b052-5e4b-4ccf-b046-2e26f40e21b5",
-    "Title": "Make calls",
+    "Title": "Anrufe tätigen über Teams",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/0a27994b-4d5d-4ac1-a40d-83b72edca946\r?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -628,7 +628,7 @@
   },
   {
     "Id": "13c4e429-7324-4886-b377-5dbed539193b",
-    "Title": "Use the command box",
+    "Title": "Nutzen Sie die Kommandozeile",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/13c4e429-7324-4886-b377-5dbed539193b?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -639,7 +639,7 @@
   },
   {
     "Id": "56e60c2b-1929-4a04-bd9b-ff5b844364f3",
-    "Title": "Sign in and install",
+    "Title": "Anmelden und installierem",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/56e60c2b-1929-4a04-bd9b-ff5b844364f3?embed=true",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -650,7 +650,7 @@
   },
   {
     "Id": "500d26ea-1f1f-4b6c-a2b7-a44213fca4ec",
-    "Title": "Create",
+    "Title": "Erstellen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/500d26ea-1f1f-4b6c-a2b7-a44213fca4ec?embed=true",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -661,7 +661,7 @@
   },
   {
     "Id": "84d111d4-cce9-4cef-9240-167dff4b5965",
-    "Title": "Save",
+    "Title": "Speichern",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/84d111d4-cce9-4cef-9240-167dff4b5965?embed=true",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -4478,7 +4478,7 @@
   },
   {
     "Id": "0db2a152-ac66-48cf-aa24-0eca94bf6c79",
-    "Title": "Organize your teams list",
+    "Title": "Organisieren Sie Ihre Liste der Teams",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/741bf760-39fc-4807-ad8b-92558273f542?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5633,7 +5633,7 @@
   },
   {
     "Id": "a6041b90-0805-4140-b8ae-1ee3805908d7",
-    "Title": "Show and hide channels",
+    "Title": "Kanäle anzeigen/ausblenden",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/3f76dffd-78a8-49ca-b8de-28671cb444ba?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5644,7 +5644,7 @@
   },
   {
     "Id": "f5275f98-7ee6-40e1-8c6e-5dc452df128b",
-    "Title": "Work on a file together",
+    "Title": "Zusammen an Dateien arbeiten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/058173f5-031b-4f37-8724-ce2a50aa1d1d?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5655,7 +5655,7 @@
   },
   {
     "Id": "f581aeaf-cc73-4dce-8a7b-12ecce5e7fdf",
-    "Title": "Tip: Send email to a channel",
+    "Title": "Tipp: E-Mails an einen Kanal schicken",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/2c17dbae-acdf-4209-a761-b463bdaaa4ca?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5666,7 +5666,7 @@
   },
   {
     "Id": "d6b86155-c9a5-4c35-a009-67f74ffe0c69",
-    "Title": "Create a plan with Planner",
+    "Title": "Haben Sie den Plan! mit Microsoft Planner",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/d000976a-7490-4ddf-b9af-09ee764891e2?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5677,7 +5677,7 @@
   },
   {
     "Id": "238176cf-6428-4ca9-8181-7f7c0fe6ff48",
-    "Title": "Create and format a post",
+    "Title": "Erstellen und formatieren Sie einen Beitrag",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/e66777da-636b-49eb-9408-b0d88b212885?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5688,7 +5688,7 @@
   },
   {
     "Id": "206edfa2-2978-4b03-9eec-4d06f33de166",
-    "Title": "Get attention with @mentions",
+    "Title": "Machen Sie andere auf ihre Nachricht aufmerksam mit @mentions (Erwähnungen)",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/b2ffb135-7069-4880-84ee-5b27f402418b?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5699,7 +5699,7 @@
   },
   {
     "Id": "2f13be6f-3968-4e5c-b020-9532db7b3a18",
-    "Title": "Save a post or a message",
+    "Title": "Beiträge speichern",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/3f63e7d0-0011-47fa-99c0-98af60a71357?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5710,7 +5710,7 @@
   },
   {
     "Id": "d46890d8-e8bf-4642-97cd-6379b0c7dddd",
-    "Title": "Upload and share files",
+    "Title": "Dateien hochladen und teilen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/57b669db-678e-424e-b0a0-15d19215cb12?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5721,7 +5721,7 @@
   },
   {
     "Id": "dca01f0e-7335-4c6f-8dd1-d419870e3239",
-    "Title": "Find and filter files",
+    "Title": "Dateien filtern und finden",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/b05c40d3-05ff-4e18-9289-05b3601e552f?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5732,7 +5732,7 @@
   },
   {
     "Id": "1f8eecb7-0714-4147-abfa-07dcc14c21d6",
-    "Title": "Set up a delegate to take your calls",
+    "Title": "Einrichten einer Stellvertretung zum Annehmen Ihrer Anrufe",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/75e8c522-dde0-45b3-8fd1-8341f19740f9?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5743,7 +5743,7 @@
   },
   {
     "Id": "6dc89bcf-9420-4820-ac10-e1c13d2b2e68",
-    "Title": "Plan and schedule a live event",
+    "Title": "Planen Sie ein Liveereignis",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/f92363a0-6d98-46d2-bdd9-f2248075e502?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5754,7 +5754,7 @@
   },
   {
     "Id": "ee60b41d-4137-4a5e-abfc-35c405006aed",
-    "Title": "Produce a live event",
+    "Title": "Prouzieren Sie ein Liveereignis",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/34c89e79-ffd4-4a6a-baf6-77055e0709cb?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5765,7 +5765,7 @@
   },
   {
     "Id": "e0b8a354-3070-4bc6-9923-ef747c8fa9a5",
-    "Title": "Attend a live event",
+    "Title": "Teilnehmen an einem Liveereignis",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/d837ad8d-ce34-44d0-9744-9beb50e943ac?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5776,7 +5776,7 @@
   },
   {
     "Id": "d1a88b4b-f6d4-47da-a28a-196857b5325b",
-    "Title": "Moderating a Q&A",
+    "Title": "Moderieren von F&A",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/4984e582-8c66-4ea3-aaaf-d93cf62e1b76?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5787,7 +5787,7 @@
   },
   {
     "Id": "4c0ef9a7-0c3e-4a95-aaea-f52f2f81ecbc",
-    "Title": "Turn a file into a tab",
+    "Title": "Tipp: Umwandeln einer Datei in eine Registerkarte",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/8c490008-3fb1-41b4-8152-6266b4474b05?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5798,7 +5798,7 @@
   },
   {
     "Id": "84be203b-a15b-4035-ae34-364440b70026",
-    "Title": "Filter your activity feed",
+    "Title": "Filtern Ihres Aktivitätsfeeds",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/02b9ece4-6086-4daa-b4c0-627beeacbf08?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5809,7 +5809,7 @@
   },
   {
     "Id": "f44bd700-38dc-4838-87af-a6e6c3fe3998",
-    "Title": "Manage notification settings",
+    "Title": "Verwalten von Benachrichtigungseinstellungen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/348672f7-9ed0-4b96-86ed-d6fdcecb4096?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5820,7 +5820,7 @@
   },
   {
     "Id": "2de922ed-16a4-4685-ae62-6887859a9ff3",
-    "Title": "Activity feed on the go",
+    "Title": "Aktivitätsfeed unterwegs",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/f9a524fa-c7a2-41ee-9961-6d8d16f5550e?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -5831,7 +5831,7 @@
   },
   {
     "Id": "67e02503-fb3d-4c38-938e-570a04231155",
-    "Title": "Join a meeting on the go",
+    "Title": "Unterwegs an einer Besprechung teilnehmen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/b5fbcb18-b4ab-4e6a-8176-55d844f21f45?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6381,7 +6381,7 @@
   },
   {
     "Id": "062f6252-5feb-4b80-a197-d9dd383aa31c",
-    "Title": "What is Microsoft Teams?",
+    "Title": "Was ist Microsoft Teams?",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/062f6252-5feb-4b80-a197-d9dd383aa31c?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6392,7 +6392,7 @@
   },
   {
     "Id": "0dd16bbf-febf-4de4-95d4-853772ea3809",
-    "Title": "Get your team up and running",
+    "Title": "Einrichten eines Teams",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/0dd16bbf-febf-4de4-95d4-853772ea3809?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6403,7 +6403,7 @@
   },
   {
     "Id": "77d55b36-b274-4fee-acbe-978ccf14c7e6",
-    "Title": "Work in channels",
+    "Title": "Arbeiten in Kanälen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/77d55b36-b274-4fee-acbe-978ccf14c7e6?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6414,7 +6414,7 @@
   },
   {
     "Id": "37d98b29-08fb-4b8e-ab97-b129a0e9966d",
-    "Title": "Add tabs to teams",
+    "Title": "Hinzufügen von Registerkarten zu Teams",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/37d98b29-08fb-4b8e-ab97-b129a0e9966d?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6425,7 +6425,7 @@
   },
   {
     "Id": "94d98315-06e7-454c-819d-d5991408bb04",
-    "Title": "Use the command box",
+    "Title": "Nutzen Sie die Kommandozeile",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/94d98315-06e7-454c-819d-d5991408bb04?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6436,7 +6436,7 @@
   },
   {
     "Id": "afe89455-43ed-47b9-af79-a82a374ba0bd",
-    "Title": "Start chats and make calls",
+    "Title": "Chats starten und Anrufe tätigen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/afe89455-43ed-47b9-af79-a82a374ba0bd?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6447,7 +6447,7 @@
   },
   {
     "Id": "b99bbb59-0e61-4a57-a01e-72f95ae8b815",
-    "Title": "Scheduled meetings",
+    "Title": "Planen und Verwalten von Besprechungen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/b99bbb59-0e61-4a57-a01e-72f95ae8b815?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6458,7 +6458,7 @@
   },
   {
     "Id": "ba05d4f5-a174-4879-b1a1-0c6f77c1396b",
-    "Title": "Overview",
+    "Title": "Übersicht",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/ba05d4f5-a174-4879-b1a1-0c6f77c1396b?embed=true",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -7063,7 +7063,7 @@
   },
   {
     "Id": "a8073654-eb8d-44ca-a7ae-1287b32d599d",
-    "Title": "Post a message to multiple channels",
+    "Title": "Posten einer Nachricht an mehrere Kanäle",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/2cdaa17e-d548-46e7-907d-4e50b7e8f8b9?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7074,7 +7074,7 @@
   },
   {
     "Id": "712ef898-a27e-42fa-a9c1-bfd0733bae97",
-    "Title": "Hide chats, delete messages",
+    "Title": "Video: Ausblenden von Chats, Löschen von Nachrichten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/10e105ed-0c22-4d94-b7b6-d543a27c472b?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7085,7 +7085,7 @@
   },
   {
     "Id": "6dd4a6fd-d88f-4baf-b08e-06755a680926",
-    "Title": "Join a Teams meeting",
+    "Title": "Teilnehmen an einer Teams-Besprechung",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/078e9868-f1aa-4414-8bb9-ee88e9236ee4?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
