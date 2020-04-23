@@ -7096,7 +7096,7 @@
   },
   {
     "Id": "7eb9c719-9452-4a9a-b3b6-69f48149ba1c",
-    "Title": "Create instant meetings with Meet now",
+    "Title": "Eine schnelle Besprechung starten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/26e06837-853d-4df1-a729-06bf700d4ecf?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7107,7 +7107,7 @@
   },
   {
     "Id": "0d231dd0-3e6a-4a7c-a384-04ac44e80807",
-    "Title": "Meet in a channel",
+    "Title": "Besprechung aus einem Kanal starten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/519ad2a0-9b74-49bb-97ee-0d4c4494a7c5?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7118,7 +7118,7 @@
   },
   {
     "Id": "d3cc8fad-9655-4f2d-b8f5-197a1b3951a1",
-    "Title": "Manage meetings",
+    "Title": "Besprechungen verwalten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/ba44d0fd-da3c-4541-a3eb-a868f5e2b137?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7129,7 +7129,7 @@
   },
   {
     "Id": "37566690-8652-4eac-abed-bfe6de084828",
-    "Title": "Show your screen during a meeting",
+    "Title": "Bildschirmfreigabe",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/90c84e5a-b6fe-4ed4-9687-5923d230d3a7?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7140,7 +7140,7 @@
   },
   {
     "Id": "b33ae7a4-e14b-4e46-9440-94bfed214415",
-    "Title": "Show PowerPoint slides",
+    "Title": "PowerPoint Präsentation zeigen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/ddfc73dd-b957-4f2b-8e42-ce078f51873c?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7151,7 +7151,7 @@
   },
   {
     "Id": "22c40436-db14-4863-93c6-aa9a51134edd",
-    "Title": "Move around during a Teams meeting",
+    "Title": "Navigieren während einer Microsoft Teams-Besprechung",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/bc428cc5-9ea2-4be5-87b1-ba434481b964?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7162,7 +7162,7 @@
   },
   {
     "Id": "089ff1b2-6cd7-4e86-ab50-a4390b4bcb21",
-    "Title": "Use apps",
+    "Title": "Apps nutzen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/6e22a734-c002-4da0-ba63-681f155b142d?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7173,7 +7173,7 @@
   },
   {
     "Id": "da40acc9-4515-49fe-acd3-117adaa15ea2",
-    "Title": "What is Shifts?",
+    "Title": "Was sind Schichten?",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/f8efe6e4-ddb3-4d23-b81b-bb812296b821?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7184,7 +7184,7 @@
   },
   {
     "Id": "2efe07d7-f493-4dbe-99bd-fed1072ac241",
-    "Title": "Create a Shifts schedule",
+    "Title": "Einen Schichtplan erstellen",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/2b94ca38-36db-4a1c-8fee-f8f0fec9a984?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7195,7 +7195,7 @@
   },
   {
     "Id": "a8b9dd93-fdec-4f8e-b761-3bd9a2741155",
-    "Title": "Manage a Shifts schedule",
+    "Title": "Schichtpläne verwalten",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/63acda7b-ea39-441a-b1c6-c404a72e79f7?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7646,7 +7646,7 @@
   },
   {
     "Id": "2766a75b-342a-4ed9-810d-f3c0f06c3207",
-    "Title": "Create and use private channels",
+    "Title": "Private Kanäle",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/16cc2bc9-a468-4469-9d6c-63da5c2a390c?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7657,7 +7657,7 @@
   },
   {
     "Id": "3ba7bca7-2b2a-4df4-8ccc-5a772eae1d83",
-    "Title": "Start and pin chats",
+    "Title": "Chats anheften",
     "Description": "",
     "Url": "https://support.office.com/de-de/client/a864b052-5e4b-4ccf-b046-2e26f40e21b5?embed=true",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",

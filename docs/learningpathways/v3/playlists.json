@@ -277,7 +277,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Staretn Sie mit Ihrem Team und lernen Sie wie Sie ein Team anpassen",
+    "Description": "Starten Sie mit Ihrem Team und lernen Sie wie Sie ein Team anpassen",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -2091,7 +2091,7 @@
   },
   {
     "Id": "fae33957-cb84-4185-ab78-2bd3818b31ee",
-    "Title": "Manage Meetings",
+    "Title": "Besprechungen planen",
     "Image": "images/playlists/manage_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2099,7 +2099,7 @@
     "SubjectId": "615f17eb-2c5b-4494-8541-4304435ca306",
     "Source": "SOC",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "View, schedule, and manage appointments and meetings in Microsoft Teams to keep your team on track.",
+    "Description": "Erstellen Sie Besprechungen über Teams und verwalten Sie diese",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
