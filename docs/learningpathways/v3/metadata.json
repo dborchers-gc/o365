@@ -344,6 +344,15 @@
       ]
     },
     {
+      "Id": "3d7f726a-4892-4fb2-af0c-9c24bcece6a0",
+      "Name": "Häufig gestellte Fragen (FAQ)",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "GC-Gruppe",
+      "SubCategories": []
+    },
+    {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
       "Name": "Admin Tools",
       "Image": "",
@@ -427,7 +436,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "GC-Gruppe"
   ],
   "Levels": [
     {
