@@ -231,7 +231,7 @@
   },
   {
     "Id": "d3acd5c2-0488-4104-935a-61fda884bc49",
-    "Title": "Teams Quick Start",
+    "Title": "Schnellstart",
     "Image": "images/playlists/teams_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -239,7 +239,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn how to create a Team, Use chat, Edit files at the same time, See likes, and Customize",
+    "Description": "Lernen Sie wie Sie mit Teams chatten, in Teams arbeiten, Anrufe tätigen und Besprechungen planen",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -252,7 +252,7 @@
   },
   {
     "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
-    "Title": "Intro to Microsoft Teams",
+    "Title": "Einführung in Teams",
     "Image": "images/playlists/intro_to_microsoft_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -260,7 +260,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn about Teams, Setting up a channel, Meetings, Calls, and other Activities",
+    "Description": "Kurzer Überblick wie Sie Teams benutzen",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -269,7 +269,7 @@
   },
   {
     "Id": "b6b28572-87d3-4c71-a565-8d4a8e18d406",
-    "Title": "Set up and customize your team",
+    "Title": "Einrichten und Anpassen eines Teams",
     "Image": "images/playlists/set_up_and_customize_your_team.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -277,7 +277,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Get up and running with Teams by learning how to create and manage public and private teams",
+    "Description": "Staretn Sie mit Ihrem Team und lernen Sie wie Sie ein Team anpassen",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -288,7 +288,7 @@
   },
   {
     "Id": "d4f4cae2-ce9a-483a-a786-93974e40b482",
-    "Title": "Collaborate in teams and channels",
+    "Title": "In Teams und Kanälen zusamemn arbeiten",
     "Image": "images/playlists/collaborate_in_teams_and_channels.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -296,7 +296,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Collaborate in Teams by working in channels and using Planner",
+    "Description": "Zusammenarbeit in Teams und Kanälen und der Einsatz von Planner",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -311,7 +311,7 @@
   },
   {
     "Id": "2346ff06-6646-4084-845d-2ee5971f3634",
-    "Title": "Start chats and calls",
+    "Title": "Starten eines Chats oder Anrufs",
     "Image": "images/playlists/start_chats_calls_and_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -319,7 +319,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn how to make calls in Teams, turn calls into meetings, and present your screen during a meeting",
+    "Description": "Lernen Sie wie Sie eine Audio- oder Videokonfernez starten oder wie Sie ihren Bildschirm teilen.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -331,7 +331,7 @@
   },
   {
     "Id": "4374d7da-95a5-4e13-a14b-2e43e1277d53",
-    "Title": "Explore apps and tools",
+    "Title": "Erkunden Sie Ihre Apps",
     "Image": "images/playlists/explore_apps_and_tools.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -339,7 +339,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Explore apps and tools in Teams and learn how to add tools, turn a file into a tab, and use the command box",
+    "Description": "Erfahren Sie wie Sie mit Hilfe von weiteren Apps und Tools Ihre Kommunikation weiter verbessern können",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -1819,7 +1819,7 @@
   },
   {
     "Id": "7a057fc3-74eb-46ab-991d-50e2e665f95d",
-    "Title": "Work with posts and messages",
+    "Title": "Arbeiten mit Beiträgen und Nachrichten",
     "Image": "images/playlists/work-with-post-and-messages.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1827,7 +1827,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Create and format a post to start a conversation in a channel",
+    "Description": "Erstellen Sie einen Beitrag, formatieren Sie diesen und posten Sie den in einem Team oder Chat",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -1904,7 +1904,7 @@
   },
   {
     "Id": "044071b3-a780-4a24-b0b1-a4951ee48a3f",
-    "Title": "Upload and find files",
+    "Title": "Dateien Hochladen und Finden",
     "Image": "images/playlists/upload-and-find-files.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1912,7 +1912,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Upload and find files in Teams",
+    "Description": "Laden Sie Dateien hoch sie mit Kollegen zu teilen",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -1991,7 +1991,7 @@
   },
   {
     "Id": "729bcb7f-43bc-4d38-a0df-8fbf38b80e56",
-    "Title": "Set up and attend live events",
+    "Title": "Einrichten und nutzen von Liveereignissen",
     "Image": "images/playlists/setup-and-attend-live-events.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1999,7 +1999,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Teams live events enables you to produce events for large online audiences with more control over video, audience interaction, and reporting",
+    "Description": "Mit Teams Liveereignissen können Sie ganz einfach Inhalte und Präsentationen mit großen Gruppen teilen",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -2114,7 +2114,7 @@
   },
   {
     "Id": "2b830deb-c2f7-46b4-9c0f-eb3150a9f083",
-    "Title": "Manage your activity feed",
+    "Title": "Verwalten Sie Ihren Aktivitätsverlauf",
     "Image": "images/playlists/manage-your-activity-feed.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2122,7 +2122,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Manage your activity feed and know everything that's happening in the team channels you follow",
+    "Description": "Erfahren Sie wie Sie mit Hilfe des Aktivitätsverlaufs den Überblick behalten",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
@@ -2132,7 +2132,7 @@
   },
   {
     "Id": "90ecbd2b-a1a7-4da1-8355-c1f65c4af298",
-    "Title": "Teams on the go",
+    "Title": "Teams für unterwegs",
     "Image": "images/playlists/teams-on-the-go.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2140,7 +2140,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Get caught up with everything fast with your activity feed",
+    "Description": "Bleiben Sie auch unterwegs auf dem laufenden mit Teams",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
