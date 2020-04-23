@@ -350,7 +350,17 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "GC-Gruppe",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "eab89a73-2d26-4283-9626-9df99b3e2753",
+          "Name": "Office 365 / Allgemein",
+          "Image": "images/categories/office_basics.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "GC-Gruppe",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
